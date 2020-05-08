@@ -1,185 +1,228 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Atanas Atanasov",
+        "label": "Senior Frontend Developer",
+        "picture": "https://atanas.info/assets/images/temp/atanas.jpg",
+        "email": "hi@atanas.info",
+        "phone": "+359 88 94 11 534",
+        "website": "https://atanas.info",
+        "summary": "A developer's journey to success",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "",
+            "city": "Varna",
+            "countryCode": "BG",
+            "region": "Bulgaria"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "scriptex",
+                "url": "https://twitter.com/scriptex"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "scriptex",
+                "url": "https://www.linkedin.com/in/scriptex/"
+            },
+            {
+                "network": "Github",
+                "username": "scriptex",
+                "url": "https://www.github.com/scriptex/"
+            },
+            {
+                "network": "Gitlab",
+                "username": "scriptex",
+                "url": "https://www.gitlab.com/scriptex/"
+            },
+            {
+                "network": "NPM",
+                "username": "scriptex",
+                "url": "https://www.npmjs.com/~scriptex/"
+            },
+            {
+                "network": "Codepen",
+                "username": "scriptex",
+                "url": "https://www.codepen.io/scriptex/"
+            },
+            {
+                "network": "Codersrank",
+                "username": "scriptex",
+                "url": "https://profile.codersrank.io/user/scriptex"
+            },
+            {
+                "network": "Sourcerer",
+                "username": "scriptex",
+                "url": "https://sourcerer.io/scriptex"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "E.ON",
+            "position": "Lead Frontend Developer",
+            "website": "https://app.home.eon.com",
+            "startDate": "2018-07-31",
+            "summary": "Building the frontend of the next generation home energy management system",
+            "location": "Remote and Essen, Germany",
+            "highlights": [
+                "Built and maintained the E.ON Home web application using React, TypeScript, Redux, SCSS, SVG, NodeJS, MS Azure",
+                "Kicked off and helped building the E.ON Home hybrid mobile application using React Native, TypeScript, Redux, SCSS, SVG, NodeJS, MS Azure",
+                "Designed, implemented and maintained the E.ON Home back-office administration web app using Angular, TypeScript, Redux, SCSS, SVG, NodeJS, MS Azure"
+            ]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Toptal",
+            "position": "Software Developer",
+            "website": "https://toptal.com",
+            "startDate": "2018-06-15",
+            "summary": "Working on high-end enterprise closed-source client applications for top companies from all over the world.",
+            "location": "Remote",
+            "highlights": ["Part of the top 3% developers in the world"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Braintrust",
+            "position": "JavaScript/TypeScript Developer",
+            "website": "https://braintrust.com",
+            "startDate": "2019-11-10",
+            "summary": "Working on high-end enterprise closed-source client applications for top companies from all over the world.",
+            "location": "Remote",
+            "highlights": ["Founding talent member"]
+        },
+        {
+            "name": "htmlBoutique",
+            "position": "JavaScript Developer",
+            "website": "https://htmlboutique.com",
+            "startDate": "2015-05-12",
+            "endDate": "2018-01-14",
+            "summary": "Senior developer, team leader and advisor. Led a small team of 8-10 frontend developers. Worked on a multitude of closed source projects.",
+            "location": "Varna, Bulgaria"
+        },
+        {
+            "name": "htmlBurger",
+            "position": "JavaScript Developer",
+            "website": "https://htmlburger.com",
+            "startDate": "2014-08-17",
+            "endDate": "2018-01-14",
+            "summary": "Mentor, teacher and advisor in a small highly skilled team of UI developers working on high-end small, medium and large scale closed source client websites and applications.",
+            "location": "Varna, Bulgaria"
+        },
+        {
+            "name": "2create",
+            "position": "JavaScript Developer",
+            "website": "https://2create.bg",
+            "startDate": "2012-05-12",
+            "endDate": "2018-01-14",
+            "summary": "Designed, developed, integrated and maintained internal coding standards and best practices together with several other team leaders and managers. Designed, developed and implemented the frontend build tool used by more than 100 developers on hundreds of thousands of internal and client projects.",
+            "location": "Varna, Bulgaria"
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "organization": "WordPress ",
+            "position": "Speakers Wrangler",
+            "website": "https://2017.varna.wordcamp.org/",
+            "startDate": "2017-09-02",
+            "endDate": "2017-09-03",
+            "summary": "Part of the first WordCamp in Varna, Bulgaria"
         }
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "institution": "University of Economics - Varna",
+            "area": "Marketing",
+            "studyType": "Master Degree",
+            "startDate": "2003-09-01",
+            "endDate": "2009-06-30"
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
+    "awards": [],
     "publications": [
         {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "name": "Jarvis: The Intelligent Front-End Task Runner",
+            "publisher": "htmlBurger",
+            "releaseDate": "2017-11-01",
+            "website": "https://htmlburger.com/blog/jarvis-task-runner/",
+            "summary": "An article describing the frontend task runner used in thousands of projects by the htmlBurger team"
+        },
+        {
+            "name": "Ionic development by htmlBoutique",
+            "publisher": "htmlBoutique",
+            "releaseDate": "2017-11-11",
+            "website": "https://htmlboutique.com/blog/2015/11/13/ionic-development-by-htmlboutique/",
+            "summary": "htmlBoutique launches a new service - hybrid app development with Ionic"
         }
     ],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "React",
             "level": "Master",
             "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["HTML", "CSS", "JavaScript", "TypeScript"]
         },
         {
             "name": "Angular",
             "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 85,
+            "keywords": ["HTML", "CSS", "JavaScript", "TypeScript"]
         },
         {
             "name": "NodeJS",
             "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["JavaScript", "TypeScript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        {
+            "language": "English",
+            "value": 90,
+            "fluency": "Proficient"
+        },
+        {
+            "language": "Bulgarian",
+            "value": 100,
+            "fluency": "Native speaker"
+        }
+    ],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Baking",
+            "gifUrl": "https://media.giphy.com/media/hpfInSxkkLdpS/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Swimming",
+            "gifUrl": "https://media2.giphy.com/media/l3V0mnnGcVblF8bAI/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Traveling",
+            "gifUrl": "https://media3.giphy.com/media/aZg5FJVAHdB3G/giphy.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Coding",
+            "gifUrl": "https://media1.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [],
     "projects": [
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
+            "name": "atanas.info",
+            "description": "My personal portfolio website",
+            "images": []
+        },
+        {
+            "name": "Webpack MPA",
+            "description": "A multiple pages setup with Webpack",
             "images": []
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Living and working in Varna, Bulgaria, my focus is delivering tested, standards-compliant, optimized and scalable code while implementing accessible, rich and beautiful user interfaces which provide the best possible user experience. mI've spent the last 9 years converting designs into pixel-perfect UIs. \nWith strong experience in any aspect of the front-end development, I can help you achieve your goals. \nReact, Angular or Vue, SASS or PostCSS, JavaScript or TypeScript, PHP or NodeJS: you name it and I will implement it. "
         },
         "dreamJob": {
-            "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
-            ],
+            "locations": [{ "name": "Valetta, Malta" }],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
@@ -188,20 +231,20 @@
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingYears": 10,
+            "codingReason": "",
             "searchState": "activelySearching",
-            "experienceYears": 9
+            "experienceYears": 16
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/4MiRUEKhpi7Zb83GDxsV4W"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "MySQL, MS Azure and AWS"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
+            "url": "./icons.svg",
+            "alt": "The icons of various development tools arranged in an image with a white background"
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
