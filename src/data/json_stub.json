@@ -6,7 +6,7 @@
         "email": "hi@atanas.info",
         "phone": "+359 88 94 11 534",
         "website": "https://atanas.info",
-        "summary": "A developer's journey to success",
+        "summary": "My professional story",
         "location": {
             "address": "",
             "postalCode": "",
@@ -158,19 +158,43 @@
             "name": "React",
             "level": "Master",
             "value": 100,
-            "keywords": ["HTML", "CSS", "JavaScript", "TypeScript"]
+            "keywords": ["React", "UI", "JavaScript", "TypeScript", "Frontend"]
         },
         {
             "name": "Angular",
             "level": "Master",
             "value": 85,
-            "keywords": ["HTML", "CSS", "JavaScript", "TypeScript"]
+            "keywords": ["Angular", "UI", "JavaScript", "TypeScript", "Frontend"]
         },
         {
             "name": "NodeJS",
             "level": "Master",
             "value": 80,
-            "keywords": ["JavaScript", "TypeScript"]
+            "keywords": ["JavaScript", "TypeScript", "Backend"]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["CSS", "UI", "Frontend"]
+        },
+        {
+            "name": "SCSS",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["SCSS", "CSS", "UI", "Frontend"]
+        },
+        {
+            "name": "HTML",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "UI", "Frontend"]
+        },
+        {
+            "name": "SVG",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["SVG", "UI", "Frontend"]
         }
     ],
     "languages": [
