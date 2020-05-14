@@ -13,6 +13,7 @@ import { styles } from './profile_styles';
 
 import en from '../i18n/en.json';
 import fr from '../i18n/fr.json';
+import tr from '../i18n/tr.json';
 
 import '../styles/lib/slick-carousel/slick-theme.css';
 import '../styles/lib/slick-carousel/slick.css';
@@ -33,7 +34,8 @@ if (!Intl.PluralRules) {
 
 const messages = {
     en,
-    fr
+    fr,
+    tr
 };
 const useStyles = createUseStyles(styles);
 
@@ -89,7 +91,10 @@ const DeveloperProfileComponent = ({
             endpoints,
             additionalNodes,
             receivedGlobalClasses,
-            customization: options?.customization
+            customization: options?.customization,
+            options: {
+                showContactInfos: options?.showContactInfos
+            }
         }),
         [apiKeys, endpoints, additionalNodes, receivedGlobalClasses, JSON.stringify(options?.customization)]
     );
